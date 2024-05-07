@@ -1,1 +1,1 @@
-# AquariumExplorer
+# FathomVerse: Aquarium Explorer
